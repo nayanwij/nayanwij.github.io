@@ -1,32 +1,7 @@
 
-body {
-    font-family: Arial, sans-serif;
-    background: #f9f9f9;
-    color: #333;
-    margin: 0;
-    padding: 0;
-}
-header {
-    background: #005f73;
-    color: white;
-    padding: 1rem;
-    text-align: center;
-}
-main {
-    padding: 2rem;
-    max-width: 800px;
-    margin: auto;
-}
-footer {
-    background: #eee;
-    text-align: center;
-    padding: 1rem;
-    font-size: 0.8rem;
-    color: #555;
-}
-a {
-    color: #0a9396;
-}
-a:hover {
-    text-decoration: underline;
-}
+body {font-family: Arial, sans-serif; line-height: 1.6; background: #f9f9f9; color: #333; margin: 0; padding: 0;}
+header {background: #005f73; color: #fff; padding: 1rem 2rem; text-align: center;}
+main {padding: 2rem; max-width: 800px; margin: auto;}
+section {margin-bottom: 2rem;}
+footer {background: #eee; text-align: center; padding: 1rem; font-size: 0.9em; color: #666;}
+a {color: #0a9396;} a:hover {text-decoration: underline;}
